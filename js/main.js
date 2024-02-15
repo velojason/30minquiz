@@ -122,6 +122,7 @@ var displayEnd = function () {
   $('.text-muted').empty();
 }
 
+//Adding a comment here.
 $(function () {
   getnext();
 
